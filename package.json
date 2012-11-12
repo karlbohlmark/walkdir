@@ -1,0 +1,11 @@
+{
+  "name": "walkdir-kb",
+  "version": "0.0.0",
+  "description": "Directory walker with configurable ignore paths",
+  "main": "walker.js",
+  "scripts": {
+  },
+  "repository": "https://github.com/karlbohlmark/walkdir.git",
+  "author": "",
+  "license": "BSD"
+}
